@@ -1,0 +1,1 @@
+Run minecraft.py on python 3.9.x with pyglet 1.5.18 or run the batch file
